@@ -11,9 +11,9 @@ public class Employee {
 		this.team = team;
 	}
 	
-	@Override
+//	overrided method
 	public String toString() {
-		return "Employment details : \n\tJobId : "+jobId+"\n\tSalary : "+salary+"\n\tRole : "+role+"\n\tTeam : "+team;
+		return "Employment data details : \n\tJobId : "+jobId+"\n\tSalary : "+salary+"\n\tRole : "+role+"\n\tTeam : "+team;
 	}
 	
 	

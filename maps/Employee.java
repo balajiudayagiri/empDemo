@@ -15,6 +15,15 @@ public class Employee {
 	public String toString() {
 		return "Employment data details : \n\tJobId : "+jobId+"\n\tSalary : "+salary+"\n\tRole : "+role+"\n\tTeam : "+team;
 	}
+	sysout
+		sysout
+		sysout
+		sysout
+		sysout
+		sysout
+		sysout
+		sysout
+		
 	
 	
 }
